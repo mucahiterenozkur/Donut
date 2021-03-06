@@ -1,2 +1,2 @@
-# Donut
-This is a spinning 3d donut in c code, not my work.
+# 3D spinning Donut in C code
+
